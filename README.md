@@ -1,6 +1,6 @@
 # Traffic Flow and Parking Restriction in the City of Seattle
 
-Link to hosted webmap: https://kyle0828.github.io/Traffic-Parking-Seattle/
+Link to hosted webmap: https://kyle0828.github.io/Seattle_traffic_parking/
 - Author: Kyle Chen
 - Date: 2021/03/12
 
